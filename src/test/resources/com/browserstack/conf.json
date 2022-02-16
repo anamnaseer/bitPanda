@@ -1,0 +1,17 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "anamnaseersiddiq_XV4Yn6",
+  "access_key": "Mq8KnsLCCRY4okM1Kq8T",
+  "capabilities": {
+    "project": "Webfleet WorkApp Compatibility",
+    "build": "WorkApp Test",
+    "name": "smoke_test",
+    "browserstack.debug": true,
+    "app": "bs://de5ee8d0e247815d1ea694718e05ff5d45a9a227"
+  },
+  "environments": [
+    { "device": "Samsung Galaxy A51",
+      "os_version": "10.0"
+    }
+  ]
+}
