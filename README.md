@@ -22,5 +22,5 @@ To run all modules, navigate to directory and run:
 
 ## Reporting
 
-Reports for each module are written into their respective `/target` directories after a successful run.
+Reports can be found at `\bitpanda\build\reports\allure-report` directories after each run.
 
